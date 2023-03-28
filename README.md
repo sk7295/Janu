@@ -1,3 +1,2 @@
 # Miraiv2
-Mirai Project
-Trankhuong
+Mirai Project Trankhuong
